@@ -1,8 +1,8 @@
 Name: David Hoang (username: dahoang)
 
-Compilation and Run Successful: Success (Process finished with exit code 0)
+Compilation and Run Successful: OK (Process finished with exit code 0)
 
-Unit Test Run Successfully: Success (Process finished with exit code 0)
+Unit Test Run Successfully: OK (Process finished with exit code 0)
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
